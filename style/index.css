@@ -3,6 +3,9 @@
     padding: 0px;
     font-family: "Proxima Nova Regular" Arial, Helvetica, sans-serif;
 }
+body{
+    background-color: #2E3035;
+}
 #navbar{
     border: 1px solid black;
     height: 395px;
@@ -218,4 +221,53 @@
     letter-spacing: 0.4px;
     line-height: 16.1px;
     margin: 5px 0px 12px;
+}
+#main_content{
+    border: 1px dotted blue;
+    margin: 10px auto;
+    width: 1350px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.main_card{
+    border: 1px solid red;
+    height: 240px;
+    width: 240px;
+    margin: 10px;
+    display: flex;
+}
+.bottom_content{
+    align-self: flex-end;
+    border: 1px solid red;
+    width: 100%;
+    background-color: #4a4b4f;
+    color: white;
+    padding: 15px 15px 0px 15px;
+}
+.bottom_content_title{
+    /* border: 1px solid black; */
+    height: 40px;
+    overflow: hidden;
+}
+.bottom_content_stat{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid black; */
+    margin: 5px 0px;
+}
+.bottom_content_stat div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid black; */
+    font-size: 80%;
+}
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 200,
+        'GRAD' -25,
+        'opsz' 48
 }
