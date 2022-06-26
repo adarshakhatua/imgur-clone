@@ -1,183 +1,221 @@
 var data = [
     {
-        img: "https://i.imgur.com/5uFU9FR_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/1.jpg",
         title: "Digital Art",
-        count:"49,696"
+        count: "49,696",
+        color:"#055773",
+        
     },
     {
-        img: "https://i.imgur.com/gRjzHOW_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/2.jpg",
         title: "Pride",
-        count: "1,729"
+        count: "1,729",
+        color:"#7D84F8",
     },
     {
-        img: "https://i.imgur.com/9r1qCDq_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/3.jpg",
         title: "Funny",
-        count: "2,702,804"
+        count: "2,702,804",
+        color:"#854C9D",
     },
     {
-        img: "https://i.imgur.com/bdRjrrI_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/4.jpg",
         title: "Science And Tech",
-        count: "45,295"
+        count: "45,295",
+        color:"#C14252",
     },
     {
-        img: "https://i.imgur.com/AqOtMAc_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/5.jpg",
         title: "Otters",
-        count: "540"
+        count: "540",
+        color:"#3D96B2",
     },
     {
-        img: "https://i.imgur.com/avRBRpN_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/6.jpg",
         title: "Aww",
-        count: "766,237"
+        count: "766,237",
+        color:"#87C9D5",
     },
     {
-        img: "https://i.imgur.com/DbQMO3A_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/7.jpg",
         title: "Staff Picks",
-        count: "6,590"
+        count: "6,590",
+        color:"#2B8B9B",
     },
     {
-        img: "https://i.imgur.com/59NSmVP_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/8.jpg",
         title: "Dog",
-        count: "213,830"
+        count: "213,830",
+        color:"#AFCDE7",
     },
     {
-        img: "https://i.imgur.com/tUX1dpv_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/9.jpg",
         title: "Unmuted",
-        count: "14,774"
+        count: "14,774",
+        color:"#22184F",
     },
     {
-        img: "https://i.imgur.com/4kmYoey_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/10.jpg",
         title: "Awesome",
-        count: "755,074"
+        count: "755,074",
+        color:"#F49193",
     },
     {
-        img: "https://i.imgur.com/4LBx79U_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/11.jpg",
         title: "Oc",
-        count: "41,094"
+        count: "41,094",
+        color:"#C6A886",
     },
     {
-        img: "https://i.imgur.com/nrFCOUB_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/12.jpg",
         title: "Gaming",
-        count: "299,499"
+        count: "299,499",
+        color:"#5C27AA",
     },
     {
-        img: "https://i.imgur.com/JdeWoaA_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/13.jpg",
         title: "Movies And Tv",
-        count: "63,271"
+        count: "63,271",
+        color:"#014568",
     },
     {
-        img: "https://i.imgur.com/kQFyoG7_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/14.jpg",
         title: "Current Events",
-        count: "380,922"
+        count: "380,922",
+        color:"#004769",
     },
     {
-        img: "https://i.imgur.com/4bOlFT2_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/15.jpg",
         title: "Crab",
-        count: "2,033"
+        count: "2,033",
+        color:"#2F3981",
     },
     {
-        img: "https://i.imgur.com/htHbdhi_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/16.jpg",
         title: "Uplifting",
-        count: "15,401"
+        count: "15,401",
+        color:"#1A0058",
     },
     {
-        img: "https://i.imgur.com/W5yeBvr_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/17.jpg",
         title: "Wholesome",
-        count: "26, 131"
+        count: "26, 131",
+        color:"#63A2FF",
     },
     {
-        img: "https://i.imgur.com/oB1KOoT_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/18.jpg",
         title: "Sci Fi",
-        count: "6,035"
+        count: "6,035",
+        color:"#8CD4DA",
     },
     {
-        img: "https://i.imgur.com/1RFUuDD_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/19.jpg",
         title: "Dungeons And Dragons",
-        count: "20,731"
+        count: "20,731",
+        color:"#5C7DB2",
     },
     {
-        img: "https://i.imgur.com/LjiOCqJ_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/20.jpg",
         title: "Ocean",
-        count: "5,845"
+        count: "5,845",
+        color:"#10A99F",
     },
     {
-        img: "https://i.imgur.com/8lR9R5v_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/21.jpg",
         title: "Imgurian Cookbook",
-        count: "428"
+        count: "428",
+        color:"#06656E",
     },
     {
-        img: "https://i.imgur.com/IkZeAAy_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/22.jpg",
         title: "Homemade",
-        count: "6,418"
+        count: "6,418",
+        color:"#34629E",
     },
     {
-        img: "https://i.imgur.com/I4fcJtP_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/23.jpg",
         title: "Eat What You Want",
-        count: "68,567"
+        count: "68,567",
+        color:"#6F4D70",
     },
     {
-        img: "https://i.imgur.com/4LBx79U_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/24.jpg",
         title: "Crafts",
-        count: "8,865"
+        count: "8,865",
+        color:"#C6A87A",
     },
     {
-        img: "https://i.imgur.com/Z7yF4MQ_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/25.jpg",
         title: "Work Stories",
-        count: "2,633"
+        count: "2,633",
+        color:"#FFD68A",
     },
     {
-        img: "https://i.imgur.com/1rBdkSH_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/26.jpg",
         title: "Work From Home",
-        count: "8,227"
+        count: "8,227",
+        color:"#455569",
     },
     {
-        img: "https://i.imgur.com/BFfAJEN_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/27.jpg",
         title: "Creativity",
-        count: "478,690"
+        count: "478,690",
+        color:"#26D5DF",
     },
     {
-        img: "https://i.imgur.com/gbuk2AN_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/28.jpg",
         title: "Random",
-        count: "14,910"
+        count: "14,910",
+        color:"#2E3880",
     },
     {
-        img: "https://i.imgur.com/QL9pTeJ_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/29.jpg",
         title: "Wow",
-        count: "17,020"
+        count: "17,020",
+        color:"#26AB6A",
     },
     {
-        img: "https://i.imgur.com/aJKwi96_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/30.png",
         title: "Inspiring",
-        count: "84,511"
+        count: "84,511",
+        color:"#AEC0CC",
     },
     {
-        img: "https://i.imgur.com/E1CMJey_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/31.png",
         title: "Cosplay",
-        count: "40,379"
+        count: "40,379",
+        color:"#A53939",
     },
     {
-        img: "https://i.imgur.com/m0iKfvv_d.jpg?maxwidth=800&shape=thumb&fidelity=high",
+        img: "../files/32.jpg",
         title: "Wallpaper",
-        count: "32,223"
+        count: "32,223",
+        color:"#2B1D2C",
     },
 ]
-function populateTagCard() {
+function populateTagCard(start,length,comp) {
 
-    document.getElementById("tag_card").innerHTML = null;
-    data.map((item) => {
-
+    document.getElementById(comp).innerHTML = null;
+    for (let i = start; i < length; i++){
+        let item = data[i];
         let card = document.createElement("div");
         card.className = "tag_card_item";
-        card.style.backgroundImage = 'images/' +item.img + '.jpg';;
+        card.style.backgroundImage = `url(${item.img})`;
         let content = document.createElement('div');
+        content.style.backgroundColor = item.color;
         content.className = "tag_card_content_div";
         let title = document.createElement("p");
         title.className = "title";
+        title.innerText = item.title
         let count = document.createElement("p");
         count.className = "count";
+        count.innerText = item.count;
 
         card.append(content);
         content.append(title, count);
-        document.getElementById("tag_card").append(card);
-    })
+        document.getElementById(comp).append(card);
+        console.log(item.img)
+    }
+    
 }
 export default populateTagCard;

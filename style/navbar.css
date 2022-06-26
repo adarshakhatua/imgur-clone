@@ -146,6 +146,9 @@
     margin: 10px auto;
     height: 34px;
 }
+#moreTags{
+    cursor: pointer;
+}
 #tag_div{
     height: 31px;
     width: 1708px;
@@ -153,26 +156,66 @@
     margin: auto;
     color: white;
     display: flex;
+    box-sizing: border-box;
     justify-content: space-between;
     align-items: center;
+    padding: 0px 10px;
 }
 #tag_div p{
-    font-size: 16px;
+    font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
     letter-spacing: 1.3px;
     line-height: 16px;
     color: #A5A4B7;
 }
-#tag_card{
-    border: 1px solid red;
+#tag_card1,#tag_card2{
+    /* border: 1px solid red; */
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-between;
+    width: 1708px;
+    margin: 10px auto ;
+}
+#tag_card1 div:first-child{
+    width: 270px;
 }
 .tag_card_item{
-    border: 1px solid black;
-    height:130px;
-    width: 110px;
-    
+    /* border: 1px solid white; */
+    height:150px;
+    width: 130px;
+    margin: 8px;
+    border-radius: 4px;
+    display: flex;
+}
+.tag_card_content_div{
+    width: 100%;
+    /* border: 1px solid white; */
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    align-self: flex-end;
+    min-height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 5px 0px;
+}
+.title{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+    line-height: 16.1px;
+    margin: 5px 0px;
+}
+.count{
+    color: rgb(234, 234, 234);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+    line-height: 16.1px;
+    margin: 5px 0px 12px;
 }
